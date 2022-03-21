@@ -1,4 +1,0 @@
-[ 
-    {"dex": "UNISWAP", "s1": "uSPY", "s2": "USDC", "token": "UMA | uSPY-USDC | LP", "decimals": "18", "address": "0x0000000000000000000000000000000000000000"},
-    {"dex": "UNISWAP", "s1": "uVIX", "s2": "USDT", "token": "UMA | uVIX-USDT | LP", "decimals": "18", "address": "0x0000000000000000000000000000000000000000"}
-]
