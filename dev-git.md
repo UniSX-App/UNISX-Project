@@ -1,1 +1,1 @@
-(Repositories for development are here)[https://github.com/unisxapp]
+* [Repositories for development are here](https://github.com/unisxapp)
